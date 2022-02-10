@@ -9,7 +9,7 @@ const Country = (props) => {
             <h2 className='text-warning'> {name}</h2>
             <img className='flag' src={flag} alt="" /> 
             <p>Area : {area}</p>
-            <p>This is Capital {capital}, Population: {population}</p>
+            <p>This Capital {capital}, Population: {population}</p>
             <button className='btn btn-danger'>Add country</button>
         </div>
     );

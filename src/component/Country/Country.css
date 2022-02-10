@@ -10,14 +10,3 @@
 .flag{
     height: 80px;
 }
-.btn{
-    width: 170px;
-    height: 40px;
-    background-color: orangered;
-    border-radius: 100px;
-    border: none;
-    color: white;
-    padding: 10px;
-    text-align: center;
-    cursor: pointer;
-}
